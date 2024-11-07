@@ -1,0 +1,11 @@
+ipykernel
+langchain
+langchain_community
+langchain_core
+arxiv
+wikipedia
+python-dotenv
+faiss-cpu
+langchain_groq
+streamlit
+duckduckgo-search
